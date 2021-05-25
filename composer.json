@@ -1,0 +1,30 @@
+{
+    "name": "defstudio/laravel-dev-tools",
+    "description": "Dev requirements def:studio laravel projects",
+    "keywords": [
+        "php",
+        "tools"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabio Ivona",
+            "email": "fabio.ivona@defstudio.it"
+        }
+    ],
+    "require": {
+        "barryvdh/laravel-debugbar": "^3.3",
+        "barryvdh/laravel-ide-helper": "^2.6",
+        "brianium/paratest": "^6.1",
+        "nunomaduro/larastan": "^0.6.8",
+        "squizlabs/php_codesniffer": "^3.5"
+        "friendsofphp/php-cs-fixer": "^3.0",
+        "phpunit/phpunit": "^9.3",
+        "pestphp/pest": "^1.2",
+        "pestphp/pest-plugin-faker": "^1.0",
+        "pestphp/pest-plugin-laravel": "^1.0",
+        "pestphp/pest-plugin-mock": "^1.0",
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
