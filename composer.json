@@ -16,7 +16,7 @@
         "barryvdh/laravel-debugbar": "^3.3",
         "barryvdh/laravel-ide-helper": "^2.6",
         "brianium/paratest": "^6.1",
-        "nunomaduro/larastan": "dev-feat/schema-parser",
+        "nunomaduro/larastan": "^1.0",
         "squizlabs/php_codesniffer": "^3.5",
         "friendsofphp/php-cs-fixer": "^3.2",
         "phpunit/phpunit": "^9.3",
